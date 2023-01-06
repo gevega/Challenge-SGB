@@ -1,0 +1,15 @@
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\bin\Debug\net6.0\Challenge_1.exe
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\bin\Debug\net6.0\Challenge_1.deps.json
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\bin\Debug\net6.0\Challenge_1.runtimeconfig.json
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\bin\Debug\net6.0\Challenge_1.dll
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\bin\Debug\net6.0\Challenge_1.pdb
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.csproj.AssemblyReference.cache
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.AssemblyInfoInputs.cache
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.AssemblyInfo.cs
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.dll
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\refint\Challenge_1.dll
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.pdb
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\Challenge_1.genruntimeconfig.cache
+C:\Users\SofiBell\Desktop\Challenge_1\Challenge_1\Challenge_1\obj\Debug\net6.0\ref\Challenge_1.dll
